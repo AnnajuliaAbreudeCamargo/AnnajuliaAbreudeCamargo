@@ -1,16 +1,15 @@
-### Hi there 👋
+Olá meu nome é Anna Julia Abreu de Camargo
 
-<!--
-**AnnajuliaAbreudeCamargo/AnnajuliaAbreudeCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 17 anos faço aniverssario no dia 01 de outubro 
 
-Here are some ideas to get you started:
+Sou introvertida
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de ler|estudar idiomas|de biologia|gosto de animais e fungos 
+
+Pretendo fazer faculdade de biologia ou artes cênicas
+
+
+![](https://media.tenor.com/d4sG_BgyH1cAAAAi/maxwell-cat.gif)
+
+
+Muito obrigada a todos!
